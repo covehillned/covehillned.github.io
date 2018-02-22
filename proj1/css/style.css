@@ -1,14 +1,10 @@
 body {
   background-color: black;
-  font-family:Arial,Helvettica,sans-serif;
+  font-family:Arial,sans-serif;
   padding:20px;
   color: gold;
 }
 
-h1, p {
-  margin-right:auto;
-  margin-left:auto;
-}
 a {
   color: white;
 }
