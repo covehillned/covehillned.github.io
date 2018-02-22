@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  font-family:Arial,Helvettica,sans-serif;
+  padding:20px;
+}
+
+h1, p {
+  color: gold;
+  margin-right:auto;
+  margin-left:auto;
+}
+ul {
+  color: gold;
+}
+a {
+  color: white;
+}
